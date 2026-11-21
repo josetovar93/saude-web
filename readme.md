@@ -34,7 +34,7 @@ salud-wed/
    Abre el archivo index.html en tu navegador.
 
 O visita la versión publicada aquí:
-👉 https://jtovarmorales93.github.io/saude-web/
+👉 https://github.com/josetovar93.github.io/saude-web/
 
 📌 ESTADO DEL PROYECTO
 🛠 En desarrollo — Próximas funciones:
