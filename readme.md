@@ -30,7 +30,7 @@ salud-wed/
 1. Clona este repositorio:
    ```bash
 
-   git clone https://github.com/jtovarmorales93/saude-web.git
+   git clone https://github.com/josetovar93/saude-web.git
    Abre el archivo index.html en tu navegador.
 
 O visita la versión publicada aquí:
