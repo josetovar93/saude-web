@@ -1,4 +1,4 @@
-# 🧘 Salud-Wed
+# 🧘 Saude-Web
 
 Una aplicación web sencilla que recomienda hábitos saludables como beber agua, descansar y cuidar tu bienestar diario. Desarrollada con HTML, CSS y JavaScript sin frameworks.
 
