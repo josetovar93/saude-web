@@ -30,11 +30,11 @@ salud-wed/
 1. Clona este repositorio:
    ```bash
 
-   git clone https://github.com/jtovarmorales93/salud-wed.git
+   git clone https://github.com/jtovarmorales93/saude-web.git
    Abre el archivo index.html en tu navegador.
 
 O visita la versión publicada aquí:
-👉 https://jtovarmorales93.github.io/salud-wed/
+👉 https://jtovarmorales93.github.io/saude-web/
 
 📌 ESTADO DEL PROYECTO
 🛠 En desarrollo — Próximas funciones:
