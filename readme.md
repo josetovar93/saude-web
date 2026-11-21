@@ -45,7 +45,7 @@ Modo oscuro
 
 Soporte para más idiomas
 
-🙋 Autor
+🙋 Autor:
 jose tovar
 
 🪪 Licencia
