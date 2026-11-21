@@ -46,7 +46,7 @@ Modo oscuro
 Soporte para más idiomas
 
 🙋 Autor
-Creado por jtovarmorales93
+jose tovar
 
 🪪 Licencia
 MIT License — puedes usar, modificar y compartir este proyecto libremente.
